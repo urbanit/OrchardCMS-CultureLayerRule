@@ -1,0 +1,9 @@
+﻿Name: Culture Layer Rule
+AntiForgery: enabled
+Author: Urbanit
+Website: http://www.urbanit.gr/
+Version: 1.9
+OrchardVersion: 1.9
+Description: Add the Culture Layer Rule.
+Category: Widget
+Dependencies: Orchard.Widgets
