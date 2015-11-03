@@ -21,6 +21,6 @@ None.
 
 ## Contributors
 
-  - [urbanit](https://github.com/urbanit) (Sotiris Roussos)
   - [mesp75](https://github.com/mesp75) (Spyros Mentavlos)
+  - [urbanit](https://github.com/urbanit) (Sotiris Roussos)
 
