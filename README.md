@@ -1,5 +1,13 @@
 # Orchard CMS Module - Culture Layer Rule
 
+#### Update
+There is a builtin feature in Orchard Localization module v1.9
+Usage: 
+culturecode("el-GR")
+culturelang("el")
+
+So, this module will be here only for demo purposes :-)
+
 Culture Layer Rule
 ====================
 
