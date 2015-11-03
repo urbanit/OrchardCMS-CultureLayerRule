@@ -13,7 +13,7 @@ It can be used with [Culture Switcher](https://orchardcultureswitcher.codeplex.c
 
 ### v1.9 Released
 
-This module is intended only for Orchard 1.9.
+This module is intended for Orchard 1.9.
 
 ## Known Issues
 
