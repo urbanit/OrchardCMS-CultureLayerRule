@@ -9,7 +9,7 @@ When enabled you have the ability to use the "culture" rule when defining rules 
 
 For example, the rule culture("el-GR") would specify that the widgets in the layer are only visible when the site current Culture is set to "el-GR".
 
-It can be used with [Culture Switcher](https://orchardcultureswitcher.codeplex.com/) widget - a module providing a frontend culture picker widget.
+It can be used with [Culture Switcher](https://orchardcultureswitcher.codeplex.com/) widget - a module providing a frontend culture picker.
 
 ### v1.9 Released
 
